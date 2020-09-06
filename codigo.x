@@ -12,3 +12,5 @@ $ teste
 
 //teste
 """ teste """
+
+funcao teste()
